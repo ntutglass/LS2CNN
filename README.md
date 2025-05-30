@@ -12,6 +12,5 @@ example_images/: Some samples
 
 
 
-Download Model Weights 
-
+Download model weights through:
 https://drive.google.com/file/d/1BRwv77bXhqh_p6gpTHxmODYBoSov5lAi/view?usp=drive_link
