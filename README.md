@@ -3,11 +3,11 @@ This repository contains the I/O components and pretrained weights of a CNN mode
 
 The uploaded files include:
 
-state_dict.pth: Trained model weights (not stored in this repositroy due to the file size limit — see download instructions below)
+  1. state_dict.pth: Trained model weights (not stored in this repositroy due to the file size limit — see download instructions below)
 
-LS2CNN: Code for loading and using the model's I/O
+  2. LS2CNN: Code for loading and using the model's I/O
 
-example_images/: Some sample microstructure images used to test the model 
+  3. example_images/: Some sample microstructure images used to test the model 
 
 
 
