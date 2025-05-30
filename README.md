@@ -7,7 +7,7 @@ state_dict.pth: Trained model weights (not stored in this repositroy due to the 
 
 LS2CNN: Code for loading and using the model's I/O
 
-example_images/: Some samples
+example_images/: Some sample microstructure images used to test the model 
 
 
 
