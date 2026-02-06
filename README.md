@@ -7,7 +7,7 @@ The uploaded files include:
 
   2. LS2CNN: Code for loading and using the model's I/O
 
-  3. example_images/: Some sample microstructure images used to test the model 
+  3. The BEIs used for model training are available at https://www.kaggle.com/datasets/kaomitique/lithium-disilicate-glass-ceramic-microstructures
 
 
 
